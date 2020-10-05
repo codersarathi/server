@@ -13,6 +13,7 @@ rl.question("Enter you code: ",(ans) => {
 
 app.listen(8080,() => {
   console.log("Server is started on 8080");
+  console.log("Note: Open your chrome browser and type (localhost:8080). Follow the author for more Tools github: codersarathi");
 })
 })
 
